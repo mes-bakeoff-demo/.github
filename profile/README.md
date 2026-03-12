@@ -1,6 +1,8 @@
-# 🍰 Minnesota Bake-Off Demo
+# 🍰 MES Bake-Off Demo
 
-**A working demonstration of challenge-based procurement for Medicaid Enterprise Systems**
+**An independent demonstration of challenge-based procurement for Medicaid Enterprise Systems**
+
+> ⚠️ **This is not an official government project.** This demo was created by Nick Aretakis, inspired by Minnesota DHS's presentation at the 2026 HIT Connect Conference. It is not affiliated with, endorsed by, or representative of any state government.
 
 ---
 
@@ -56,11 +58,12 @@ Traditional procurement asks vendors to *promise* what they'll build. Challenge-
 
 ## Credits
 
-- **Minnesota DHS** — Original vision and presentation
+- **Nick Aretakis** — Demo creator
+- **Minnesota DHS** — Original vision and presentation at HIT Connect 2026
 - **Alaska DHSS** — Pioneer in GitHub-based procurement
 - **SI Delivery** — Challenge-Based RFP templates
 - **18F** — Agile BPA innovation
 
 ---
 
-*This is a demonstration, not an official government project.*
+*This is an independent demonstration, not an official government project.*
