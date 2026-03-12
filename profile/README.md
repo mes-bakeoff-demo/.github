@@ -24,6 +24,17 @@ GitHub Issues serve as the transparent backlog. Anyone can see what's being work
 | [#1 MSP Auto-Enrollment](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1) | Slice | In Progress |
 | [#2 Eligibility Verification](https://github.com/mes-bakeoff-demo/mes-modernization/issues/2) | Slice | Available |
 | [#3 Identity Management](https://github.com/mes-bakeoff-demo/mes-modernization/issues/3) | Layer | Available |
+| [#4 Provider Revalidation Portal](https://github.com/mes-bakeoff-demo/mes-modernization/issues/4) | Slice | Available |
+| [#5 Pre-Payment Review Dashboard](https://github.com/mes-bakeoff-demo/mes-modernization/issues/5) | Slice | Available |
+| [#6 MAXIS-METS Data Bridge](https://github.com/mes-bakeoff-demo/mes-modernization/issues/6) | Layer | Available |
+| [#7 County Worker Dashboard](https://github.com/mes-bakeoff-demo/mes-modernization/issues/7) | Slice | Available |
+| [#8 HCBS Waiver Waitlist](https://github.com/mes-bakeoff-demo/mes-modernization/issues/8) | Slice | Available |
+| [#9 MNsure Easy Enrollment](https://github.com/mes-bakeoff-demo/mes-modernization/issues/9) | Slice | Available |
+| [#10 MCO Plan Selection Tool](https://github.com/mes-bakeoff-demo/mes-modernization/issues/10) | Slice | Available |
+| [#11 Fraud Risk Scoring Engine](https://github.com/mes-bakeoff-demo/mes-modernization/issues/11) | Layer | Available |
+| [#12 Renewal Reminder & Auto-Renewal](https://github.com/mes-bakeoff-demo/mes-modernization/issues/12) | Slice | Available |
+
+[View full backlog →](https://github.com/mes-bakeoff-demo/mes-modernization/issues)
 
 ## Repository Structure
 
