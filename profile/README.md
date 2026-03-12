@@ -70,9 +70,14 @@ Three vendors built working prototypes for the same problem — Medicare Savings
 | Code review | Pull Requests |
 | Deployment | Actions + Pages |
 
+## How It Was Built
+
+This entire demo was built using [Kiro](https://kiro.dev), an agentic IDE from AWS. Two hours of conversation — Kiro handled the code generation, git operations, GitHub CLI commands, issue creation, and deployments.
+
 ## Credits
 
 - Nick Aretakis — Demo
+- [Kiro](https://kiro.dev) — Agentic IDE (AWS)
 - Minnesota DHS — Original presentation (HIT Connect 2026)
 - Alaska DHSS — GitHub-based procurement pioneer
 - SI Delivery — Challenge-Based RFP templates
