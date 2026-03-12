@@ -19,11 +19,11 @@ This GitHub Organization demonstrates what **transparent, GitHub-powered procure
 
 | Repo | Purpose | Status |
 |------|---------|--------|
-| [mes-modernization](https://github.com/mn-bakeoff-demo/mes-modernization) | 📖 The Recipe Book — strategy, backlog, templates | Hub |
-| [rfp-msp-auto-enrollment](https://github.com/mn-bakeoff-demo/rfp-msp-auto-enrollment) | 📝 Recipe Card — Definition of Done for MSP slice | RFP |
-| [msp-solution-alpha](https://github.com/mn-bakeoff-demo/msp-solution-alpha) | 🧑‍🍳 Chef Alpha — Rules-based approach | [Demo](https://mn-bakeoff-demo.github.io/msp-solution-alpha) |
-| [msp-solution-beta](https://github.com/mn-bakeoff-demo/msp-solution-beta) | 🧑‍🍳 Chef Beta — Decision tree UI | [Demo](https://mn-bakeoff-demo.github.io/msp-solution-beta) |
-| [msp-solution-gamma](https://github.com/mn-bakeoff-demo/msp-solution-gamma) | 🧑‍🍳 Chef Gamma — Form wizard | [Demo](https://mn-bakeoff-demo.github.io/msp-solution-gamma) |
+| [mes-modernization](https://github.com/mes-bakeoff-demo/mes-modernization) | 📖 The Recipe Book — strategy, backlog, templates | Hub |
+| [rfp-msp-auto-enrollment](https://github.com/mes-bakeoff-demo/rfp-msp-auto-enrollment) | 📝 Recipe Card — Definition of Done for MSP slice | RFP |
+| [msp-solution-alpha](https://github.com/mes-bakeoff-demo/msp-solution-alpha) | 🧑‍🍳 Chef Alpha — Rules-based approach | [Demo](https://mes-bakeoff-demo.github.io/msp-solution-alpha) |
+| [msp-solution-beta](https://github.com/mes-bakeoff-demo/msp-solution-beta) | 🧑‍🍳 Chef Beta — Decision tree UI | [Demo](https://mes-bakeoff-demo.github.io/msp-solution-beta) |
+| [msp-solution-gamma](https://github.com/mes-bakeoff-demo/msp-solution-gamma) | 🧑‍🍳 Chef Gamma — Form wizard | [Demo](https://mes-bakeoff-demo.github.io/msp-solution-gamma) |
 
 ## The Demo Slice: MSP Auto-Enrollment
 
@@ -33,9 +33,9 @@ Three vendors built working prototypes in parallel, each with a different approa
 
 | Vendor | Approach | Tech | Try It |
 |--------|----------|------|--------|
-| **Alpha** | Rules-based engine | Vanilla HTML/JS | [Launch →](https://mn-bakeoff-demo.github.io/msp-solution-alpha) |
-| **Beta** | Interactive decision tree | React | [Launch →](https://mn-bakeoff-demo.github.io/msp-solution-beta) |
-| **Gamma** | Step-by-step wizard | Vue | [Launch →](https://mn-bakeoff-demo.github.io/msp-solution-gamma) |
+| **Alpha** | Rules-based engine | Vanilla HTML/JS | [Launch →](https://mes-bakeoff-demo.github.io/msp-solution-alpha) |
+| **Beta** | Interactive decision tree | React | [Launch →](https://mes-bakeoff-demo.github.io/msp-solution-beta) |
+| **Gamma** | Step-by-step wizard | Vue | [Launch →](https://mes-bakeoff-demo.github.io/msp-solution-gamma) |
 
 ## Why GitHub?
 
